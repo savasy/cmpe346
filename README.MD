@@ -1,16 +1,20 @@
 
 # CMPE 346 Natural Language Processing
 
-NLP studies
+# NLP studies
 
 * Tokenization
 * Parsing
+* Ngrams
 * Name Entity Recognition
 * Text Classification
 * Semantic Labeling
 * Summarizaiton
 * Chatbot 
+* Word & Sentence Embeddings
 
+
+#Grading Scheme
 
 * Report Preparation and/or Presentation	10
 * Project		30
