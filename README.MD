@@ -14,7 +14,7 @@
 * Word & Sentence Embeddings
 
 
-#Grading Scheme
+# Grading Scheme
 
 * Report Preparation and/or Presentation	10
 * Project		30
