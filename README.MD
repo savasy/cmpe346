@@ -21,6 +21,10 @@
 * Midterm(s)	25
 * Final exam	35
 
+Book
+https://web.stanford.edu/~jurafsky/slp3/
+
+
 Course Bilgi ECTS info
 
 https://ects.bilgi.edu.tr/Course/Detail?Catalog_CourseId=11813581
