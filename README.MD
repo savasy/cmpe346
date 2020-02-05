@@ -21,8 +21,13 @@
 * Midterm(s)	25
 * Final exam	35
 
-Book
+Book 1 
 https://web.stanford.edu/~jurafsky/slp3/
+
+Book 2 NLTK
+http://www.nltk.org/book/
+
+
 
 
 Course Bilgi ECTS info
