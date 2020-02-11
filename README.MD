@@ -21,12 +21,11 @@
 * Midterm(s)	25
 * Final exam	35
 
-Book 1 
+Book 1 for  Slides 
 https://web.stanford.edu/~jurafsky/slp3/
 
-Book 2 NLTK
+Book 2 NLTK  for Lab Exercises
 http://www.nltk.org/book/
-
 
 
 
