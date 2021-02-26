@@ -5,7 +5,7 @@
 * Tokenization
 * Parsing
 * Ngrams
-* Name Entity Recognition
+* Named-Entity Recognition
 * Text Classification
 * Semantic Labeling
 * Summarizaiton
