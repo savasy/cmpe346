@@ -1,6 +1,6 @@
 # CMPE 346 Natural Language Processing
 
-# NLP studies
+# NLP topics to be covered
 
 * Tokenization
 * Parsing
@@ -9,8 +9,10 @@
 * Text Classification
 * Semantic Labeling
 * Summarizaiton
-* Chatbot 
+* Chatbots & Coversational AI 
 * Word & Sentence Embeddings
+* Transformers
+* BERT and GPTs
 
 
 # Grading Scheme
